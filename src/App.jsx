@@ -18,9 +18,6 @@ function App() {
         <div>
           <SolanaWallet />
         </div>
-        <div>
-          <EthWallet />
-        </div>
       </div>
     </>
   );
